@@ -1,5 +1,5 @@
-# mochawesome-example
+# Mochawesome Sample Project
 
-Once pulled, run npm install
+Once you clone the repo, run -
 
-Refer - 
+npm install
