@@ -9,3 +9,7 @@
    ./node_modules/.bin/cypress run --spec "cypress/integration/examples/actions.spec.js"
  
 3. Go to mochawesome-report folder to view the results in mochawesome.html
+
+References:
+
+1. https://www.npmjs.com/package/mochawesome
