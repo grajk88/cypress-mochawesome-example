@@ -1,4 +1,4 @@
-# Mochawesome Sample Project
+# Cypress - Mochawesome Sample Project
 
 1. Once you clone the repo, run -
 
